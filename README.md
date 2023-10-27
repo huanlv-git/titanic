@@ -1,8 +1,8 @@
 ## CPSC 4800 - Assignment 2 - Part 2
 ### Author: Huan Le Van
-This project is to practice EDA for the [Titanic](https://www.kaggle.com/c/titanic) dataset. 
+This project is to practice EDA for the [Titanic](https://www.kaggle.com/c/titanic) dataset.    
 Here are some hypotheses that project matters:
--   Determine if the survival rate is associated to the class of passenger
+-   Determine if the survival rate is associated to the ticket class
 -   Determine if the survival rate is associated to the gender
 -   Determine the survival rate is associated to the age
 
